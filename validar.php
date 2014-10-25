@@ -8,7 +8,7 @@ if (isset($_POST["password"]) && isset($_POST["usuario"])) {
 		$_SESSION['usuario'] = $_POST["usuario"];
 		?>
 		<script type="text/javascript">
-			window.location = "novedades.php";
+			window.location = "ventas.php";
 		</script>
 		<?php
 	}

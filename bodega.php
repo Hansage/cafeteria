@@ -35,11 +35,10 @@ include "conexion.php";
 
                         <div class="collapse navbar-collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="novedades.php"><i class="fa fa-bell fa-lg"></i> Novedades</a></li>
-                                <li><a href="reservas.php"><i class="fa fa-briefcase fa-lg"></i> Reservas</a></li>
-                                <li><a href="pasajeros.php"><i class="fa fa-taxi fa-lg"></i> Pasajeros</a></li>
-                                <li><a href="habitaciones.php"><i class="fa fa-bank fa-lg"></i> Habitaciones</a></li>
-                                <li class="active"><a href="bodega.php"><i class="fa fa-shopping-cart fa-lg"></i> Bodega</a></li>
+                                <li><a href="ventas.php"><i class="fa fa-bell fa-lg"></i> Ventas</a></li>
+                                <li><a href="compras.php"><i class="fa fa-briefcase fa-lg"></i> Compras</a></li>
+                                <li class="active"><a href="bodega.php"><i class="fa fa-bank fa-lg"></i> Inventarios</a></li>
+                                <li><a href="proveedores.php"><i class="fa fa-shopping-cart fa-lg"></i> Proveedores</a></li>
                             </ul>
                             <ul class="nav navbar-nav pull-right">
                                 <li><a href="cerrar.php"><i class="fa fa-sign-out fa-lg"></i> Cerrar Sesion</a></li>
